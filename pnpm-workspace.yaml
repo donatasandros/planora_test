@@ -5,7 +5,7 @@ packages:
 catalog:
    "@tailwindcss/vite": ^4.3.3
    "@turbo/gen": ^2.11.10
-   "@types/node": ^24.19.2
+   "@types/node": ^26.0.0
    "@types/react": ^19.2.18
    "@types/react-dom": ^19.2.7
    lucide-react: ^1.42.0
